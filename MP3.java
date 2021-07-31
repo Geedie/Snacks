@@ -1,5 +1,7 @@
 package Practice;
 
+//This is to check what my MP3 can do
+
 public class MP3 {
     private boolean isOn;
     private String productName;
