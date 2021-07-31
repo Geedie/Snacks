@@ -1,5 +1,7 @@
 package Practice;
 
+//Things my AC can do
+
 public class AirConditionerTwo {
 
     private boolean on;
