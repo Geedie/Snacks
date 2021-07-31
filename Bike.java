@@ -1,5 +1,8 @@
 package Practice;
 
+//Functions of my bike
+//testing git
+
 public class Bike {
 
     private boolean isOn;
