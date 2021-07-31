@@ -1,6 +1,6 @@
 package Practice;
 
-//Things my Television can do
+//Things my TV can do
 
 public class Television {
 
